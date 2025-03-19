@@ -63,7 +63,7 @@ If credentials are not found in environment variables or config file, the progra
 
 Run the script:
 ```bash
-python sf_company_search.py
+python3 main.py
 ```
 
 Follow the interactive prompts to:
@@ -157,7 +157,7 @@ client_secret = your-client-secret
 
 スクリプトを実行します:
 ```bash
-python sf_company_search.py
+python3 main.py
 ```
 
 対話式プロンプトに従って操作します:
